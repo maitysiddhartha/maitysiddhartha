@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on Cloud Architecting & Data Engineering
+- 🌱 I’m currently learning AI
+- 👯 I’m looking to collaborate on Platform and Data Engineering
+- 💬 Ask me about Cloud Architecting and Data Engineering, Mainframe modernisation
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/siddhartha-maity/)...
+  
 <!--
 **maitysiddhartha/maitysiddhartha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
